@@ -16,3 +16,9 @@
 
 
 ## Távoli repoval valo osszekapcsolás
+- osszekapcsolas
+    >git remote add origin https://token@github.com/atkakek/myproject.git
+
+    >git push -u origin master
+- tovabbi verzio feltoltesnel
+    >git push
