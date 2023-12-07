@@ -22,3 +22,4 @@
     >git push -u origin master
 - tovabbi verzio feltoltesnel
     >git push
+- dkldkdkdkdkdkd
